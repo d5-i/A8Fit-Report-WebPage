@@ -12,6 +12,6 @@ Package : 999999
 .... Enjoy
 # How to install ?
 ```
-git clone https://github.com/ci04/A8Fit-Report-WebPage.git
+git clone https://github.com/d5-i/A8Fit-Report-WebPage.git
 python a8.py
 ```
